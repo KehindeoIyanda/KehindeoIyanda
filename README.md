@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi, I'm <Kehinde Iyanda>! 👋
 
-<!--
-**KehindeoIyanda/kehindeoIyanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate DevOps engineer with experience in Cloud computing, information security, automating infrastructures,building, scaling and facilitaing Agile applications.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Master's in Information Technology Management at WGU.
+- 🤓 2X AWS Certified
+- 🌐 Proud member of the National Society of Black Engineers (NSBE) contributing to the tech community.
+
+
+## Tech Stack
+- Terraform
+- Yaml
+- Linux
+- Python
+- Kubernetes
+- Docker
+- AWS Cloud
+- Jenkins
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning IT Project management.
+  - Ethical Leadership.
+  - IT Strategic Solutions in identifying strategic opportunities and emerging technologies through research.
+  - HTML and CSS.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed terraform-beginner-bootcamp-2023.
+.
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
