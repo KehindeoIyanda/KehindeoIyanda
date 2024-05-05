@@ -7,6 +7,7 @@ I am a passionate DevOps engineer with experience in Cloud computing, informatio
 
 - 🔭 I'm currently pursuing my Master's in Information Technology Management at WGU.
 - 🤓 2X AWS Certified
+- 📚 I'm currently learning Kubernetes and everything related to Cloud/DevOps
 - 🌐 Proud member of the National Society of Black Engineers (NSBE) contributing to the tech community.
 
 
@@ -20,9 +21,14 @@ I am a passionate DevOps engineer with experience in Cloud computing, informatio
 - AWS Cloud
 - Jenkins
 
+## Languages & Tools
+
+- Pyhton
+- Bash Script
+
 ## 🌱 Currently Exploring
 
-- 🚀 Learning IT Project management.
+  - 🚀 Learning IT Project management.
   - Ethical Leadership.
   - IT Strategic Solutions in identifying strategic opportunities and emerging technologies through research.
   - HTML and CSS.
